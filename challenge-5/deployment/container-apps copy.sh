@@ -2,11 +2,11 @@
 # Script to create Azure Container Registry, build/push image, and create Container App
 set -e
 
-RESOURCE_GROUP="" #FILL
+RESOURCE_GROUP="x33525894-agents-swc" #FILL
 LOCATION="swedencentral" # might need changing
-ACR_NAME="" #FILL
+ACR_NAME="msagthackcrr67ubghcjs32k" #FILL
 IMAGE_NAME="insurance-orchestrator:latest"
-CONTAINER_APP_NAME="" #FILL
+CONTAINER_APP_NAME="x33525894-insurance-orchestrator" #FILL
 DOCKERFILE_PATH="."
 
 echo "🚀 Starting deployment to Azure Container Apps..."

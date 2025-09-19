@@ -18,8 +18,8 @@ SUBSCRIPTION_ID=$(az account show --query id --output tsv)
 echo "📋 Current subscription: $SUBSCRIPTION_ID"
 
 # You need to set these variables to match your environment
-RESOURCE_GROUP=""  #Fill Replace with your resource group
-SP_NAME="" #Fill Replace with a unique name for your service principal
+RESOURCE_GROUP="x33525894-agents-swc"  #Fill Replace with your resource group
+SP_NAME="x33525894-insurance-orchestrator" #Fill Replace with a unique name for your service principal
 
 echo ""
 echo "2️⃣ Creating service principal (if needed)..."
@@ -28,6 +28,7 @@ echo "Service Principal Name: $SP_NAME"
 
 # Create service principal
 SP_OUTPUT=$(az ad sp create-for-rbac --name "$SP_NAME" --role "Cognitive Services User" --scopes "/subscriptions/$SUBSCRIPTION_ID/resourceGroups/$RESOURCE_GROUP" 2>/dev/null || echo "Service principal might already exist")
+echo $SP_OUTPUT
 
 if [[ $SP_OUTPUT == *"Service principal might already exist"* ]]; then
     echo "⚠️  Service principal might already exist. Getting existing credentials..."
