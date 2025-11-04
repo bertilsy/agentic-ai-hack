@@ -60,8 +60,6 @@ searchServiceEndpoint=$(az deployment group show --resource-group $resourceGroup
 aiFoundryHubEndpoint=$(az deployment group show --resource-group $resourceGroupName --name $deploymentName --query "properties.outputs.aiFoundryHubEndpoint.value" -o tsv 2>/dev/null || echo "")
 aiFoundryProjectEndpoint=$(az deployment group show --resource-group $resourceGroupName --name $deploymentName --query "properties.outputs.aiFoundryProjectEndpoint.value" -o tsv 2>/dev/null || echo "")
 
-
-
 # If deployment outputs are empty, try to discover resources by type
 if [ -z "$storageAccountName" ] || [ -z "$logAnalyticsWorkspaceName" ] || [ -z "$apiManagementName" ] || [ -z "$keyVaultName" ] || [ -z "$containerRegistryName" ]; then
     echo "Some deployment outputs not found, discovering missing resources by type..."
