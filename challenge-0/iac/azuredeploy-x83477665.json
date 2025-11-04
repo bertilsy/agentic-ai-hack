@@ -172,7 +172,7 @@
         "enabledForDiskEncryption": false,
         "enabledForTemplateDeployment": false,
         "enableSoftDelete": true,
-        "softDeleteRetentionInDays": 90,
+        // "softDeleteRetentionInDays": 90,
         "enableRbacAuthorization": true
       }
     },
