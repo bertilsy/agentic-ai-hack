@@ -192,7 +192,7 @@
         "allowProjectManagement": true,
         "customSubDomainName": "[variables('aiFoundryName')]",
         "disableLocalAuth": false,
-        "publicNetworkAccess": true
+        "publicNetworkAccess": "Enabled"
       }
     },
     {
