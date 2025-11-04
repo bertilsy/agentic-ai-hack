@@ -8,7 +8,7 @@
         "container": "policies",
         "file_type": "markdown",
         "text_length": 8187,
-        "processing_date": "2025-09-19T09:14:57.611042",
+        "processing_date": "2025-11-04T10:37:17.913855",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -21,7 +21,7 @@
         "container": "policies",
         "file_type": "markdown",
         "text_length": 6032,
-        "processing_date": "2025-09-19T09:14:57.638180",
+        "processing_date": "2025-11-04T10:37:17.943539",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -34,7 +34,7 @@
         "container": "policies",
         "file_type": "markdown",
         "text_length": 9580,
-        "processing_date": "2025-09-19T09:14:57.665351",
+        "processing_date": "2025-11-04T10:37:17.972858",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -47,7 +47,7 @@
         "container": "policies",
         "file_type": "markdown",
         "text_length": 6415,
-        "processing_date": "2025-09-19T09:14:57.692791",
+        "processing_date": "2025-11-04T10:37:18.002870",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -60,7 +60,7 @@
         "container": "policies",
         "file_type": "markdown",
         "text_length": 9585,
-        "processing_date": "2025-09-19T09:14:57.721702",
+        "processing_date": "2025-11-04T10:37:18.039674",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -69,15 +69,15 @@
   "claims": [
     {
       "success": true,
-      "description": "The image depicts a silver four-door sedan parked in a marked parking space on an asphalt surface adjacent to a grassy area. The vehicle has sustained significant damage primarily to the front-left (driver's side) section.\n\nDamage Assessment:\n- The front-left fender is heavily crumpled and bent inward, indicating a strong impact.\n- The front bumper is partially detached and hanging off, exposing internal components.\n- The left headlight assembly is missing or destroyed.\n- The front-left wheel is severely damaged, with the tire appearing flat and the rim bent or misaligned, suggesting possible suspension damage.\n- The hood on the left side is misaligned and slightly raised, indicating deformation.\n- The driver's side door shows visible dents and scratches, with some paint transfer or scuff marks.\n- The front grille is missing or damaged, exposing the radiator and other internal parts.\n- No visible damage is noted on the right side or rear of the vehicle from this angle.\n\nEnvironmental Factors:\n- The vehicle is parked in a designated parking lot with clear white lines.\n- The surrounding area includes a grassy strip and a sidewalk, with some trees and a building in the background.\n- Weather conditions appear clear and dry, with no signs of rain or adverse weather.\n- The road surface is dry and free of debris.\n\nAdditional Details:\n- No other vehicles or people are visible in the immediate vicinity.\n- The damage suggests a collision impact likely occurred on the front-left corner, possibly involving another vehicle or a stationary object.\n- The severity of damage to the wheel and structural components indicates the vehicle may not be drivable without repairs.\n- No immediate safety hazards such as leaking fluids or smoke are visible in the image.\n\nOverall, the vehicle has sustained moderate to severe front-left damage affecting both cosmetic and structural elements. Repair costs are likely to be substantial, potentially involving bodywork, suspension, and mechanical repairs. This detailed assessment should assist in insurance claim evaluation and repair planning.",
+      "description": "The image depicts a silver sedan parked in a marked parking space with significant front-left side damage. The vehicle's front-left fender is severely crumpled and bent inward, exposing internal components such as the radiator and structural supports. The front bumper is detached on the left side and hanging loose, showing visible scratches and deformation. The left front wheel is a spare tire, indicating the original tire may have been damaged or removed. The driver's side door and the area behind the front wheel also exhibit dents and scrapes, suggesting a strong impact on the front-left quadrant of the vehicle.\n\nEnvironmental context shows the car is parked in an outdoor lot adjacent to a grassy area and a paved road. The weather appears clear with no visible precipitation, and the pavement is dry, indicating no immediate weather-related hazards. There are no other vehicles or people visible in the immediate vicinity, and no debris or fluids are apparent on the ground around the vehicle.\n\nOverall, the damage is extensive on the front-left side, affecting both the body panels and likely some mechanical components, such as the suspension or steering, given the wheel change. The vehicle is currently stationary and appears to be out of service until repairs are made. Safety concerns include potential structural damage compromising vehicle integrity and the need for a thorough mechanical inspection before the vehicle is driven again. This damage would likely result in a moderate to high repair cost claim.",
       "metadata": {
         "file_name": "crash1.jpg",
         "container": "claims",
         "file_type": "image",
         "image_format": "jpeg",
         "image_size_bytes": 224828,
-        "description_length": 2093,
-        "processing_date": "2025-09-19T09:15:07.383782",
+        "description_length": 1528,
+        "processing_date": "2025-11-04T10:37:23.115476",
         "model_used": "gpt-4.1-mini",
         "processing_type": "image_description",
         "ready_for_embedding": true
@@ -85,15 +85,15 @@
     },
     {
       "success": true,
-      "description": "The image depicts a light blue hatchback vehicle, specifically a Honda Civic, that has undergone a side-impact crash test in a controlled indoor environment, likely a crash test facility. The vehicle is stationary on a smooth, clean floor with white walls and industrial lighting, indicating a professional testing setup rather than an actual accident scene on public roads.\n\nDamage Assessment:\n- The primary damage is located on the driver's side of the vehicle, extending from the front door to the rear door.\n- Both doors on the driver's side exhibit significant deformation, with large dents and creases indicating a strong lateral impact.\n- The front door is particularly crumpled, with the window glass shattered or missing, suggesting severe intrusion into the passenger compartment.\n- The rear door also shows substantial damage but is less deformed than the front door.\n- The side skirts and lower body panels on the driver's side are bent and pushed inward.\n- The front fender on the driver's side is also damaged, with visible deformation around the wheel arch.\n- The rear of the vehicle and the passenger side appear undamaged.\n- The wheels and tires on the driver's side remain intact but the rear wheel has a white support or sensor attached, likely part of the testing equipment.\n\nEnvironmental Factors:\n- The vehicle is inside a controlled crash test environment, evidenced by the clean, white floor and walls, and the absence of weather or road debris.\n- There are no visible signs of weather impact such as rain, snow, or dirt.\n- The presence of yellow and black checkered markings on the side of the vehicle is typical for crash test analysis, aiding in measuring deformation.\n- The vehicle has decals indicating \"Thatcham Research\" and \"Euro NCAP,\" confirming this is a standardized crash test for safety assessment.\n\nRelevant Details for Insurance Processing:\n- The damage is extensive on the driver's side, likely compromising the structural integrity of the vehicle's side frame and doors.\n- The intrusion into the passenger compartment suggests potential for high repair costs, possibly warranting a total loss determination depending on the vehicle's value.\n- No damage is visible on the rear or passenger side, which may limit repair scope to the driver's side.\n- The controlled environment and test markings indicate this image is from a safety performance test rather than an actual accident claim, so real-world variables like road conditions or other vehicles are not applicable.\n- No airbags or interior damage are visible in this image, but given the severity of the side impact, airbag deployment and occupant injury risk would be a critical consideration in a real accident scenario.\n\nOverall Severity Assessment:\n- The damage is severe on the impacted side, with significant body deformation and likely structural compromise.\n- The vehicle would require extensive bodywork, door replacement, and possibly frame straightening or replacement.\n- Safety systems and side-impact protection performance would be key factors in evaluating occupant risk in this scenario.\n\nSafety Concerns:\n- The extent of intrusion into the passenger compartment highlights the importance of side-impact protection features.\n- In a real-world accident, occupants on the driver's side would be at high risk of injury.\n- The crash test setup ensures no hazards are present in the environment, but the damage illustrates potential hazards in actual side collisions, such as sharp metal edges and compromised door functionality.\n\nThis detailed description should assist in understanding the nature and extent of damage for insurance claim evaluation and risk assessment purposes.",
+      "description": "The image depicts a light blue hatchback vehicle, specifically a Honda Civic, that has undergone a side-impact crash test. The vehicle is positioned indoors in a controlled testing environment, likely a crash test facility, as indicated by the plain white floor, industrial walls, and absence of external environmental factors such as weather or road conditions.\n\nDamage Assessment:\n- The primary damage is concentrated on the driver's side, extending from the front door to the rear door.\n- Both the front and rear doors on the driver's side exhibit significant deformation, with visible dents, creases, and intrusion into the cabin area.\n- The side airbags have deployed, as evidenced by the inflated airbag visible through the front door window, indicating the impact was sufficient to trigger safety systems.\n- The front fender on the driver's side also shows deformation, suggesting the impact extended slightly forward of the doors.\n- The rear quarter panel and rear bumper appear undamaged, and the rear wheel and tire are intact.\n- The front wheel on the driver's side is turned outward, but no visible damage to the wheel or tire is apparent.\n- The vehicle's structural integrity appears compromised on the impacted side, with the door frames bent inward.\n\nEnvironmental Factors:\n- The vehicle is indoors on a smooth, clean surface with no external environmental influences such as weather, road debris, or traffic.\n- The setting is a controlled crash test environment, as indicated by the Euro NCAP and Thatcham Research logos and markings on the vehicle.\n- There are no other vehicles, pedestrians, or objects in the immediate vicinity.\n\nRelevant Details for Insurance Processing:\n- The damage is severe on the driver's side, affecting both doors and the front fender, likely requiring door replacements and bodywork.\n- Airbag deployment suggests a high-impact collision, which may increase repair costs and affect claim severity.\n- The vehicle’s frame may have sustained structural damage, necessitating a detailed inspection for safety and repair feasibility.\n- No visible damage to the rear or passenger side, which may limit repair scope to the impacted side.\n- The controlled test environment confirms the damage is from a standardized side-impact collision, useful for assessing vehicle safety performance but may differ from real-world accident scenarios.\n\nOverall, the vehicle has sustained moderate to severe side-impact damage with significant structural deformation and airbag deployment, indicating a high-energy collision. The damage is localized to the driver's side, with no visible damage to other parts of the vehicle. This assessment will aid in determining repair costs, potential total loss evaluation, and safety considerations for insurance claim processing.",
       "metadata": {
         "file_name": "crash2.jpg",
         "container": "claims",
         "file_type": "image",
         "image_format": "jpeg",
         "image_size_bytes": 36064,
-        "description_length": 3686,
-        "processing_date": "2025-09-19T09:15:17.637129",
+        "description_length": 2791,
+        "processing_date": "2025-11-04T10:37:30.872419",
         "model_used": "gpt-4.1-mini",
         "processing_type": "image_description",
         "ready_for_embedding": true
@@ -101,15 +101,15 @@
     },
     {
       "success": true,
-      "description": "The image depicts a white compact hatchback vehicle, likely a Suzuki model, with significant visible damage on both the front and rear sections, as well as the side.\n\nDamage Assessment:\n- Front: The hood is severely crumpled and bent upwards, indicating a strong frontal impact. The front grille is damaged, and the left headlight is misaligned but appears intact.\n- Side: The driver's side door and rear passenger door show multiple dents and creases, suggesting side impact damage. The rear quarter panel above the left rear wheel is heavily crumpled and deformed.\n- Rear: The left rear corner of the vehicle is extensively damaged, with the bumper and rear panel crushed inward. The rear left taillight is missing or broken.\n- Tires/Wheels: The left front tire appears flat or deflated, and the left rear wheel is visibly damaged or misaligned.\n\nEnvironmental Factors:\n- The vehicle is parked on a paved surface, likely a street or parking area.\n- There is a chain-link fence and green hedge in the background, indicating a residential or suburban setting.\n- The weather appears clear and dry, with no visible precipitation or wet surfaces.\n\nOther Details:\n- No people or other vehicles are visible in the immediate vicinity.\n- The vehicle is stationary and appears to have been moved off the road for safety.\n- No immediate hazards such as leaking fluids or fire risk are visible, but the extent of damage suggests the vehicle is not drivable.\n\nOverall Severity:\n- The damage is extensive, affecting structural components at the front, side, and rear.\n- The vehicle likely requires major repairs or may be considered a total loss depending on the insurance assessment.\n- Safety concerns include compromised structural integrity and potential mechanical issues due to the impact.\n\nThis detailed damage and environmental assessment should assist in processing the insurance claim and determining the next steps for repair or replacement.",
+      "description": "The image depicts a white compact hatchback vehicle with significant visible damage on both the front and rear sections, indicative of a severe collision or multiple impacts.\n\nDamage Assessment:\n- Front End: The hood is heavily crumpled and bent upwards, suggesting a strong frontal impact. The front grille is damaged, and the front bumper is misaligned. The left headlight is intact but appears slightly displaced.\n- Rear End: The rear quarter panel on the driver's side is extensively crushed and deformed, with visible dents and creases extending from the rear door to the back of the vehicle. The rear bumper is also damaged and partially detached.\n- Side: The driver's side door shows a large dent, likely from the same impact that affected the rear quarter panel.\n- Tires and Wheels: The front tire appears intact, but the rear tire on the driver's side is flat, possibly due to the impact or subsequent damage to the wheel or suspension.\n\nEnvironmental Factors:\n- The vehicle is parked on a paved surface adjacent to a grassy area and a chain-link fence, suggesting it is in a parking lot or roadside area.\n- The weather appears clear and dry, with no visible precipitation or wet surfaces.\n- There are no other vehicles or people visible in the immediate vicinity, and no traffic signs or signals are present in the frame.\n\nOverall Severity Assessment:\n- The damage is extensive, affecting both structural and cosmetic components of the vehicle.\n- The front-end damage suggests a high-impact collision, potentially compromising the engine compartment.\n- The rear and side damage indicate a secondary impact or a side collision.\n- The flat rear tire and deformed body panels suggest the vehicle is not drivable without repairs.\n\nSafety Concerns:\n- The structural integrity of the vehicle is likely compromised, especially at the front and rear.\n- Potential hazards include sharp metal edges and unstable body panels.\n- The vehicle should be inspected for mechanical and safety system damage before any attempt to move or repair.\n\nThis detailed damage assessment and environmental context provide a comprehensive overview for insurance claim processing and risk evaluation.",
       "metadata": {
         "file_name": "crash3.jpg",
         "container": "claims",
         "file_type": "image",
         "image_format": "jpeg",
         "image_size_bytes": 204827,
-        "description_length": 1939,
-        "processing_date": "2025-09-19T09:15:26.100142",
+        "description_length": 2180,
+        "processing_date": "2025-11-04T10:37:38.577652",
         "model_used": "gpt-4.1-mini",
         "processing_type": "image_description",
         "ready_for_embedding": true
@@ -117,15 +117,15 @@
     },
     {
       "success": true,
-      "description": "The image depicts a two-vehicle collision involving a red station wagon and a blue sedan on a paved road with a shoulder area. \n\nDamage Assessment:\n- The red station wagon has significant impact damage to the rear left side, including a large dent and deformation of the rear quarter panel above the wheel well. The rear bumper appears to be pushed inward, and the rear left tire is partially obscured but seems intact.\n- The blue sedan has extensive front-end damage. The hood is crumpled and bent upward, indicating a strong frontal impact. The front grille and bumper are displaced, and the left headlight area shows damage but the headlight itself appears mostly intact. The front left fender is also affected by the collision.\n\nEnvironmental Factors:\n- The accident occurred on a clear day with partly cloudy skies, as evidenced by the shadows and reflections on the vehicles.\n- The road surface is dry and in good condition, with visible lane markings and a paved shoulder.\n- The location appears to be a rural or semi-rural area, with dense green trees lining the roadside.\n- Traffic is visible in the background, suggesting this is a multi-lane road or highway.\n\nAdditional Details:\n- The blue sedan’s driver-side door is open, and a person wearing a high-visibility vest is attending to the occupants, indicating that emergency or roadside assistance is present.\n- Debris from the collision, including small plastic or metal fragments, is scattered on the road near the point of impact.\n- No immediate hazards such as leaking fluids or fire are visible in the image.\n\nSeverity Assessment:\n- The damage to both vehicles is moderate to severe, with the blue sedan sustaining major front-end damage likely affecting engine components.\n- The red station wagon’s rear damage is significant but less extensive than the sedan’s front damage.\n- Both vehicles appear to be immobilized due to the collision.\n\nSafety Concerns:\n- The presence of emergency personnel suggests the situation is being managed safely.\n- The vehicles are partially blocking the road, which may pose a hazard to other drivers if not properly marked or controlled.\n- No visible injuries are apparent, but the extent of damage indicates a potentially forceful impact requiring medical evaluation of occupants.\n\nThis detailed description should assist in the insurance claim process by providing a clear overview of the damage, context, and immediate safety considerations.",
+      "description": "The image depicts a two-vehicle collision involving a red station wagon and a blue sedan on a paved road with clear weather conditions and daylight. The red station wagon has sustained significant damage to its rear left side, specifically around the rear quarter panel and the area above the left rear wheel. The metal is visibly crumpled and dented, indicating a strong impact. The rear left wheel area is also affected, though the tire appears intact.\n\nThe blue sedan has front-end damage, with the hood crumpled and bent upwards, exposing internal engine components. The front bumper is misaligned and appears to be partially detached. The left headlight is intact but the area around it shows deformation. The driver's side door of the blue sedan is open, and a person wearing an orange safety vest is leaning into the vehicle, possibly assisting or inspecting the situation.\n\nThe collision occurred on a road bordered by a forested area with dense green trees, suggesting a rural or suburban setting. The road surface is dry and clear, with no visible adverse weather conditions contributing to the accident. The vehicles are positioned on or near lane markings, indicating the collision likely happened while both vehicles were traveling in the same or opposite directions on a two-lane road.\n\nOverall, the damage to both vehicles is moderate to severe, with the red station wagon's rear quarter panel heavily damaged and the blue sedan's front end significantly impacted. There is no visible debris beyond small fragments on the road, and no immediate hazards such as leaking fluids or fire are apparent. The presence of a person in a safety vest suggests that emergency or roadside assistance is on scene, addressing safety and assessment needs. This scene warrants a detailed insurance claim evaluation for structural damage and potential repair or total loss determination.",
       "metadata": {
         "file_name": "crash4.jpeg",
         "container": "claims",
         "file_type": "image",
         "image_format": "jpeg",
         "image_size_bytes": 649578,
-        "description_length": 2444,
-        "processing_date": "2025-09-19T09:15:35.734945",
+        "description_length": 1884,
+        "processing_date": "2025-11-04T10:37:49.278540",
         "model_used": "gpt-4.1-mini",
         "processing_type": "image_description",
         "ready_for_embedding": true
@@ -133,15 +133,15 @@
     },
     {
       "success": true,
-      "description": "The image depicts a collision involving two vehicles on a paved road, likely a multi-lane highway or major road, with a concrete barrier and greenery visible in the background.\n\nVehicle Types and Damage:\n1. Silver Pickup Truck:\n- The front end of the pickup truck has sustained significant damage.\n- The front bumper is missing, exposing internal components such as the radiator and structural elements.\n- The hood is crumpled and bent upwards, particularly on the driver's side.\n- The left front fender is heavily dented and deformed.\n- The left front wheel appears to be angled unnaturally, suggesting possible suspension or axle damage.\n- The headlight on the left side is either missing or severely damaged.\n- The windshield and side windows appear intact.\n\n2. Black Sedan:\n- The rear right side of the sedan shows extensive damage.\n- The rear quarter panel is heavily dented and crumpled.\n- The rear bumper is damaged and partially detached.\n- The right rear taillight is broken.\n- The rear door on the right side is also dented, indicating the impact extended into the passenger compartment area.\n- The rear windshield and other windows appear undamaged.\n\nEnvironmental Factors:\n- The road surface is dry and in good condition, with clear lane markings.\n- Weather conditions appear clear with no visible precipitation or adverse weather.\n- The accident occurred near a concrete median barrier, which may have influenced the collision dynamics.\n- There are no visible skid marks or debris on the road surface in the immediate vicinity.\n\nOther Details:\n- No people are visible in the image.\n- No emergency vehicles or personnel are present, suggesting the photo was taken shortly after the collision or before emergency response.\n- Both vehicles remain on the roadway, partially blocking lanes, which could pose a hazard to other traffic.\n\nSeverity Assessment:\n- The damage to both vehicles is substantial, particularly the front end of the pickup truck and the rear side of the sedan.\n- The structural damage to the pickup’s front and the sedan’s rear quarter panel indicates a high-impact collision.\n- The pickup truck’s suspension or wheel damage may render it inoperable.\n- The sedan’s rear door damage could affect occupant safety and vehicle integrity.\n\nSafety Concerns:\n- The vehicles obstruct traffic lanes, creating a potential hazard for oncoming vehicles.\n- There is no visible signage or cones to warn other drivers.\n- The damaged vehicles may leak fluids or have sharp debris, posing additional risks.\n\nThis detailed damage and environmental assessment should assist in insurance claim evaluation, repair cost estimation, and risk analysis.",
+      "description": "The image depicts a collision between two vehicles on a paved road with a concrete barrier and green foliage in the background, suggesting a highway or major road in a semi-rural or suburban area.\n\nVehicle Types and Damage:\n1. Silver Pickup Truck:\n- The front end of the pickup truck sustained significant damage.\n- The front bumper is completely missing, exposing internal components such as the radiator and structural elements.\n- The hood is crumpled and bent upwards, particularly on the driver's side.\n- The left front fender is heavily dented and torn, with parts hanging loose.\n- The left front wheel appears misaligned, indicating potential suspension damage.\n- The headlight on the left side is missing or destroyed.\n- The windshield and side windows appear intact.\n\n2. Black Sedan:\n- The rear driver's side of the sedan shows extensive damage.\n- The rear quarter panel is severely dented and crumpled.\n- The rear bumper is damaged and partially detached.\n- The rear driver's side taillight is broken.\n- The rear door on the driver's side is dented and pushed inward, suggesting a strong impact.\n- The rear windshield and other windows appear intact.\n\nEnvironmental Factors:\n- The road surface is dry and clear, with no visible debris or skid marks.\n- Weather conditions appear clear with daylight, indicating good visibility at the time of the incident.\n- The concrete barrier behind the vehicles is undamaged, suggesting the collision did not involve the barrier.\n\nAdditional Observations:\n- No people are visible in the image.\n- No other vehicles are present in the immediate vicinity.\n- Both vehicles are stationary and positioned close together, indicating the collision occurred recently.\n- There are no visible fluid leaks such as oil or coolant on the road surface.\n\nSeverity Assessment:\n- The damage to both vehicles is moderate to severe, with significant structural damage to the front of the pickup truck and the rear side of the sedan.\n- The pickup truck’s front-end damage likely affects critical components such as the radiator, suspension, and possibly the engine bay.\n- The sedan’s rear-side damage may impact the rear suspension and frame integrity.\n- Both vehicles will likely require extensive repairs, and there is a possibility of total loss depending on repair costs.\n\nSafety Concerns:\n- The misaligned front wheel of the pickup truck poses a safety hazard if driven in this condition.\n- Detached and hanging parts from the pickup truck could create road hazards.\n- The absence of visible airbags or deployed safety features cannot be confirmed from this angle.\n- The scene appears safe with no immediate hazards such as leaking fluids or fire risk.\n\nSummary:\nThis image shows a two-vehicle collision involving a silver pickup truck with severe front-end damage and a black sedan with substantial rear-side damage. The accident occurred on a dry, clear road with no adverse weather conditions. Both vehicles exhibit structural damage that will require detailed inspection and repair. No immediate environmental hazards are visible, but the vehicles are not in drivable condition. This information is pertinent for insurance claim evaluation and damage assessment.",
       "metadata": {
         "file_name": "crash5.jpg",
         "container": "claims",
         "file_type": "image",
         "image_format": "jpeg",
         "image_size_bytes": 301152,
-        "description_length": 2657,
-        "processing_date": "2025-09-19T09:15:44.241859",
+        "description_length": 3195,
+        "processing_date": "2025-11-04T10:37:59.373208",
         "model_used": "gpt-4.1-mini",
         "processing_type": "image_description",
         "ready_for_embedding": true
@@ -157,7 +157,7 @@
         "container": "statements",
         "file_type": "markdown",
         "text_length": 2092,
-        "processing_date": "2025-09-19T09:14:57.800935",
+        "processing_date": "2025-11-04T10:37:18.137744",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -170,7 +170,7 @@
         "container": "statements",
         "file_type": "markdown",
         "text_length": 2553,
-        "processing_date": "2025-09-19T09:14:57.827981",
+        "processing_date": "2025-11-04T10:37:18.177036",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -183,7 +183,7 @@
         "container": "statements",
         "file_type": "markdown",
         "text_length": 2598,
-        "processing_date": "2025-09-19T09:14:57.854766",
+        "processing_date": "2025-11-04T10:37:18.210633",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -196,7 +196,7 @@
         "container": "statements",
         "file_type": "markdown",
         "text_length": 2416,
-        "processing_date": "2025-09-19T09:14:57.881542",
+        "processing_date": "2025-11-04T10:37:18.245226",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
@@ -209,7 +209,7 @@
         "container": "statements",
         "file_type": "markdown",
         "text_length": 3059,
-        "processing_date": "2025-09-19T09:14:57.910861",
+        "processing_date": "2025-11-04T10:37:18.281477",
         "processing_method": "direct_vectorization",
         "ready_for_embedding": true
       }
